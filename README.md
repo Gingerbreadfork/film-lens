@@ -1,8 +1,10 @@
-# Film Lens
+# 🎬 Film Lens
 
-A Chrome extension that enhances movie browsing with instant ratings, cast info, and insights.
+A Chrome extension that enhances movie browsing with instant ratings, cast info, and insights. 
 
-## Setup
+Built by me, for me—but hey, if you’re here, you might enjoy it too! Powered by the data from the glorious folks over at [OMDb API](https://www.omdbapi.com/), go donate to them or something!
+
+## 🚀 Setup
 1. Clone the repository
 2. Create a `.env` file in the root directory with your OMDB API key:
    ```
@@ -18,7 +20,7 @@ A Chrome extension that enhances movie browsing with instant ratings, cast info,
    ```
 5. Load the extension in Chrome from the `dist` folder
 
-## Development
+## 🛠 Development
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
