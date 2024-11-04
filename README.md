@@ -22,6 +22,3 @@ A Chrome extension that enhances movie browsing with instant ratings, cast info,
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
-
-## License
-ISC
