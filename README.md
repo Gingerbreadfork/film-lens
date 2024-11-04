@@ -21,6 +21,12 @@ Built by me, for me—but hey, if you’re here, you might enjoy it too! Powered
 5. Load the extension in Chrome from the `dist` folder
 
 ## 🛠 Development
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
+**Building:**
+`npm run build` - Builds the extension
+
+**Loading the Extension in Chrome:**
+- Open Chrome and navigate to chrome://extensions/.
+- Enable "Developer mode" (top right corner).
+- Click "Load unpacked" and select the dist folder from this repository.
+- The extension icon should now appear in your browser toolbar.
+- Click it, search movies, enjoy.
